@@ -14,6 +14,7 @@ function App() {
 
     if (currentQuestion === 4) {
       setCurrentQuestion(0);
+      console.log("Hello");
     }
   };
 
